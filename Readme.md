@@ -1,19 +1,25 @@
 Running the Seed Phrase Generator Securely
 One of the most critical aspects of using a seed phrase generator is ensuring that the process is completely offline and secure. Here's a step-by-step guide on how to run this code safely:
 
-Create a New Text File:
+1. Create a New Text File:
 Open your preferred text editor (like Notepad on Windows or TextEdit on Mac).
-Copy and Paste the Code:
+
+2. Copy and Paste the Code:
 Copy the entire HTML code for the seed phrase generator and paste it into this new text file.
-Save the File with .html Extension:
+
+3. Save the File with .html Extension:
 Save the file with a name like "seed_phrase_generator.html". Make sure to change the file extension from .txt to .html. In most text editors, you can do this by selecting "All Files" in the "Save as type" dropdown and then adding .html to the end of the file name.
-Disconnect from the Internet:
+
+4. Disconnect from the Internet:
 Before proceeding, disconnect your computer from the internet. This ensures that no data can be transmitted during the seed phrase generation process.
-Run the File in Your Browser:
+
+5. Run the File in Your Browser:
 Double-click the saved .html file to open it in your default web browser. The seed phrase generator should now be running locally on your machine.
-Generate Your Seed Phrase:
+
+6. Generate Your Seed Phrase:
 Follow the on-screen instructions to generate your seed phrase.
-Securely Store Your Seed Phrase:
+
+7. Securely Store Your Seed Phrase:
 Once generated, write down your seed phrase on paper. Never store it digitally.
 Close the Browser and Delete the File:
 After you've securely recorded your seed phrase, close the browser and delete the .html file.
