@@ -1,4 +1,7 @@
-Running the Seed Phrase Generator Securely
+
+https://dev.to/mibii/building-a-secure-seed-phrase-generator-lessons-in-cryptography-and-user-interaction-4m2f
+
+  Running the Seed Phrase Generator Securely
 One of the most critical aspects of using a seed phrase generator is ensuring that the process is completely offline and secure. Here's a step-by-step guide on how to run this code safely:
 
 1. Create a New Text File:
